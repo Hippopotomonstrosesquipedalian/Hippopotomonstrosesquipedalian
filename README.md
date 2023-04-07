@@ -4,6 +4,7 @@ Welcome to the repository! To get started, download the Python script so you can
 There are only two words you can use:
 * hippopotomonstrosesquipedalian, which represents a `0`
 * pneumonoultramicroscopicsilicovolcanoconiosis, which represents a `1`
+
 The words are decoded to the number they represent, then the binary string is decoded using the ASCII character set. This new string is run as a Python programme.
 ### How to run
 You first need to run the Python script (this is the compiler). After, you need to type in the file path to the script you want to run. It will run.
